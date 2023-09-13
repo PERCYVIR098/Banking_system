@@ -1,0 +1,14 @@
+C:\Users\earln\OneDrive\Desktop\Earl\Programming\C#\Banking_System\bin\Debug\net6.0\Banking_System.exe
+C:\Users\earln\OneDrive\Desktop\Earl\Programming\C#\Banking_System\bin\Debug\net6.0\Banking_System.deps.json
+C:\Users\earln\OneDrive\Desktop\Earl\Programming\C#\Banking_System\bin\Debug\net6.0\Banking_System.runtimeconfig.json
+C:\Users\earln\OneDrive\Desktop\Earl\Programming\C#\Banking_System\bin\Debug\net6.0\Banking_System.dll
+C:\Users\earln\OneDrive\Desktop\Earl\Programming\C#\Banking_System\bin\Debug\net6.0\Banking_System.pdb
+C:\Users\earln\OneDrive\Desktop\Earl\Programming\C#\Banking_System\obj\Debug\net6.0\Banking_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\earln\OneDrive\Desktop\Earl\Programming\C#\Banking_System\obj\Debug\net6.0\Banking_System.AssemblyInfoInputs.cache
+C:\Users\earln\OneDrive\Desktop\Earl\Programming\C#\Banking_System\obj\Debug\net6.0\Banking_System.AssemblyInfo.cs
+C:\Users\earln\OneDrive\Desktop\Earl\Programming\C#\Banking_System\obj\Debug\net6.0\Banking_System.csproj.CoreCompileInputs.cache
+C:\Users\earln\OneDrive\Desktop\Earl\Programming\C#\Banking_System\obj\Debug\net6.0\Banking_System.dll
+C:\Users\earln\OneDrive\Desktop\Earl\Programming\C#\Banking_System\obj\Debug\net6.0\refint\Banking_System.dll
+C:\Users\earln\OneDrive\Desktop\Earl\Programming\C#\Banking_System\obj\Debug\net6.0\Banking_System.pdb
+C:\Users\earln\OneDrive\Desktop\Earl\Programming\C#\Banking_System\obj\Debug\net6.0\Banking_System.genruntimeconfig.cache
+C:\Users\earln\OneDrive\Desktop\Earl\Programming\C#\Banking_System\obj\Debug\net6.0\ref\Banking_System.dll
